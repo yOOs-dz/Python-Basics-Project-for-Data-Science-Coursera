@@ -1,6 +1,6 @@
 This repository is in fact an assignment within an online course on coursera.org and is entitled: 
 
-Python Project for Data Science Basics.
+Python Project for Data Science Basics : https://www.coursera.org/learn/python-project-for-data-science
 
 It contains a *.iypnb file containing the main code and all content of the assignment including graphs.
 
